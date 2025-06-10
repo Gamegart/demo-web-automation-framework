@@ -5,9 +5,10 @@ Este proyecto es un ejemplo básico de automatización de pruebas web usando Jav
 
 ### Requisitos:
 - IntelliJ IDEA (Community Edition)
+  (https://www.jetbrains.com/idea/download/?section=windows)
 - Java 11 o superior (Desde IntelliJ puedes configurarlo si no lo tienes instalado)
 - Maven (ya viene integrado en IntelliJ)
-- Google Chrome/Firefox (Para ejecutar las pruebas)
+- Google Chrome/Firefox Actualizado (Para ejecutar las pruebas)
 - Chrome Driver/Firefox Driver (Ya incluidos en el repositorio)
 
 
