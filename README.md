@@ -4,10 +4,11 @@ Demo Web Automation Framework:
 Este proyecto es un ejemplo básico de automatización de pruebas web usando Java, Selenium WebDriver y Maven.
 
 ### Requisitos:
-- IntelliJ IDEA (u otro IDE compatible con Java)
+- IntelliJ IDEA (Community Edition)
 - Java 11 o superior (Desde IntelliJ puedes configurarlo si no lo tienes instalado)
 - Maven (ya viene integrado en IntelliJ)
-- Google Chrome/Firefox (para ejecutar las pruebas)
+- Google Chrome/Firefox (Para ejecutar las pruebas)
+- Chrome Driver/Firefox Driver (Ya incluidos en el repositorio)
 
 
 ### Contenido del proyecto:
@@ -30,8 +31,9 @@ cd demo-web-automation-framework
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Espera a que Maven descargue las dependencias automáticamente o actualiza manualmente.
-4. Ve a la carpeta src/test/java/tests y abre la clase LoginTest.java.
-5. Haz clic en el botón verde de Run (▶️) o clic derecho > Run LoginTest.
+4. Te dira que hay que usar un JDK especifico, darle en "descargar".
+5. Ve a la carpeta src/test/java/tests y abre la clase LoginTest.java.
+6. Haz clic en el botón verde de Run (▶️) o clic derecho > Run LoginTest.
 
 
 ### ¿Qué hace el test?
